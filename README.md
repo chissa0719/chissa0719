@@ -1,6 +1,8 @@
 
 ## Introduction
 
+![](https://komarev.com/ghpvc/?username=chissa0719)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chissa0719&theme=vue)
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chissa0719&theme=vue)
