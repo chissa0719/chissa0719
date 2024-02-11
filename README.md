@@ -22,7 +22,7 @@
 
 ## Participation
 
-![https://100program.jp](/images/100pro.png)
+<a href="https://100program.jp"><img src="images/100pro.png" width="20%" height="20%" /></a>
 
 ## References
 
