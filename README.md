@@ -1,8 +1,4 @@
 
-<p align=right>
-![](https://komarev.com/ghpvc/?username=chissa0719)
-</p>
-
 ## Introduction
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chissa0719&theme=vue)
