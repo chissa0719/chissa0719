@@ -20,7 +20,7 @@
 ![](https://skillicons.dev/icons?i=github,visualstudio,linux,vim,latex,mysql)
 ![](https://skillicons.dev/icons?i=c,cpp,java,ruby,rust,html,css,js,php,flask,arduino)
 
-## 参考
+## References
 
 - Summary Cards<br>
 https://github.com/vn7n24fzkq/github-profile-summary-cards<br>
