@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chissa0719&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chissa0719&theme=vue)
 
-![](https://skillicons.dev/icons?i=c,c++,java,ruby,rust,html,css,js,php)
+![](https://skillicons.dev/icons?i=github,visualstudio,linux,vim,latex,mysql,c,cpp,java,ruby,rust,html,css,js,php,flask,arduino)
 
 ## 参考
 
