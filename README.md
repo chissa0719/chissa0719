@@ -20,13 +20,19 @@
 ![](https://skillicons.dev/icons?i=github,visualstudio,linux,vim,latex,mysql)
 ![](https://skillicons.dev/icons?i=c,cpp,java,ruby,rust,html,css,js,php,flask,arduino)
 
+## Participation
+
+![https://100program.jp](/images/100pro.png)
+
 ## References
 
-- Summary Cards<br>
+- Introdution Cards<br>
 https://github.com/vn7n24fzkq/github-profile-summary-cards<br>
 
-- トロフィー<br>
+- Archived trophy<br>
 https://github.com/ryo-ma/github-profile-trophy<br>
 
+- Skill aicons<br>
+https://github.com/tandpfun/skill-icons#readme<br>
 
 
